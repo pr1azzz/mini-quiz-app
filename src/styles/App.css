@@ -26,37 +26,8 @@
   font-size: 1.1rem;
   cursor: pointer;
   margin-top: 1rem;
-  transition: background-color 0.3s ease;
 }
 
 .start-button:hover, .retry-button:hover {
   background-color: #45a049;
-}
-
-.home-page h1 {
-  color: #333;
-  margin-bottom: 1rem;
-}
-
-.home-page p {
-  color: #666;
-  font-size: 1.1rem;
-  line-height: 1.5;
-}
-
-.result-container h2 {
-  color: #333;
-  margin-bottom: 1rem;
-}
-
-.result-container h3 {
-  color: #4CAF50;
-  margin-bottom: 1.5rem;
-}
-
-.result-container p {
-  color: #666;
-  font-size: 1.1rem;
-  line-height: 1.6;
-  margin-bottom: 2rem;
 }
